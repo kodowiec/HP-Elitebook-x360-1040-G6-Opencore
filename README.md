@@ -5,7 +5,7 @@
 * macOS Big Sur 11.2.2 (20D80)
 * Intel i5-8365U / Intel UHD Graphics 620
 * 16 GB of soldered Samsung DDR4 memory @ 2400Hz (as reported by macOS)
-* replaced PM981 SSD  with EVO 860
+* replaced PM981 SSD  with EVO 860, 970 EVO Plus works fine too
 * 14" 1920x1080 SureView
 
 ## what works
@@ -31,7 +31,7 @@
 * **Webcam:** detected by system as USB device, but no image
 * **Fingerprint** and will never work
 * **Windows Hello** and will never work
-* **Internal microphone** don't need it
+* **Internal microphone** i personally don't need it, may look later tho
 * **Thunderbolt** - don't own any thunderbolt device
 * **Volume buttons near USB-C** - tbh idk how to do it
 
@@ -80,5 +80,4 @@ Use patches and SSDTs from my repo.
 * won't sleep with attached external storage - at least for me
 * sometimes it boots in SureView mode by default
 * brightness keys on keyboard change SureView brightness, system preferences allow to change normal brightness
-* sometimes touchpad won't work after wake
-* im not sure if cpu power management is good, but it's good enough for me: [geekbench score](https://browser.geekbench.com/v5/cpu/7251151)
+* cpu power management needs improvement (especially in idle), [geekbench score](https://browser.geekbench.com/v5/cpu/7251151)
