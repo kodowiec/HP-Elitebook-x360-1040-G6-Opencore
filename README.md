@@ -79,5 +79,6 @@ Use patches and SSDTs from my repo.
 * USB-C port tested with HP USB-C Mini dock, no thunderbolt devices to test thunderbolt functionality
 * won't sleep with attached external storage - at least for me
 * sometimes it boots in SureView mode by default
+* if it boots to a black screen try turning on/off sureview repeatedly
 * brightness keys on keyboard change SureView brightness, system preferences allow to change normal brightness
 * cpu power management needs improvement (especially in idle), [geekbench score](https://browser.geekbench.com/v5/cpu/7251151)
